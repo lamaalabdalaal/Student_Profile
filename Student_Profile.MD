@@ -7,11 +7,11 @@ Cohort 1
 
 ## Student Career Goal Statement 
 
-work in a big fiance institution.
- I would like to be part of one the fintech leader players. 
- I would really want to engage with equtiy research modeling.
- I want to contribute to deliver analytical results of investement decision-making.
- Highlight the cost-effictive solution that the Fintech could grant to the financial sector.
+ My main goal is to work in a big fiance institution
+ and throught the years considered to be part of one the fintech leader players. 
+ I would really want to engage with equtiy research modeling 
+ in order to contribute in delivering accurate analytical results of investement decision-making.
+ As I believe highlighting the cost-effictive solutions that the Fintech could grant to the financial sector.
 
 ### Student mini-CV:
 
