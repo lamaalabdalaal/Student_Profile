@@ -18,7 +18,7 @@ Cohort 1
   - Degrees Completed:    
         BSc Banking and Finance '21 
   - Top 3 Technical skills:    
-         Excel, PowerPoint, and Word.
+        Analytical skills, Excel, PowerPoint, and Word.
   - Top 3 Personal strengths:   
        Great team player, reliable, hard worker, self-motivated.
   - Top 3 Interests in Fintech:    
