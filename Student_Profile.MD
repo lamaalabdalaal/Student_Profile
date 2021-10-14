@@ -20,6 +20,6 @@ Cohort 1
   - Top 3 Technical skills:    
         Analytical skills, Excel, PowerPoint, and Word.
   - Top 3 Personal strengths:   
-       Great team player, reliable, hard worker, self-motivated.
+       Great team player, reliable, hard worker, self-motivator.
   - Top 3 Interests in Fintech:    
         Blockchain, Cryptocurrency, Smart Contracts, and InsureTech (insurance).
